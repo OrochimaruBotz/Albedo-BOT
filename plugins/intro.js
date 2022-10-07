@@ -41,7 +41,7 @@ conn.sendButtonDoc(m.chat, krtu, wm,'MENU','.menu', m, { contextInfo: { external
     mediaUrl: "https://Instagram.com/_ctzhid",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'WH-MODS-DEV-V1 MultiDevice',
+    title: 'GojoBotzMD MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
