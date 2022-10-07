@@ -32,7 +32,7 @@ ${emot}│☂︎ *Tanggal Islam:* %dateIslamic
 │╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│☂︎ *Nama Bot:* %me
+┴│☂︎ *Nama Bot:* GojoXHumanzBotZ
 ${emot}│☂︎ *Mode:* %mode
 ${emot}│☂︎ *Prefix:* [ *%_p* ]
 ${emot}│☂︎ *Baileys:* Multi Device
@@ -359,7 +359,6 @@ let tek = `✧────···[ Dashboard ]···────✧
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │
-│ ▸ *Sumber :* YouTube ZenssCuyy
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
@@ -630,7 +629,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/RaaaGH/'
+                        url: 'https://github.com/OrochimaruBotz/'
                     }
                 },
                 {
