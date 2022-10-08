@@ -42,11 +42,11 @@ export async function all(m) {
         • Link Aja: [082127487538]
         
         Nomor Owner :
-        wa.me/6282127487538
+        wa.me/6288804947282
         
         ▌│█║▌║▌║║▌║▌║█│▌
         
-        #BY WH MODS DEV
+        #BY HUMANZZ
         `.trim(), wm, 'Pemilik Bot', '.owner', m)
 await this.reply(nomorown + '@s.whatsapp.net', `Ada Yang Mau Nyulik nih :v \n\ndari: @${m.sender.split("@")[0]} \n\npesan: ${m.text}`, m, { mentions: [m.sender] })
     }
