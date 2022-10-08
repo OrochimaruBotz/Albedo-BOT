@@ -47,11 +47,11 @@ https://github.com/NevtBotz
 https://github.com/LitRHap
 *❉ Rlxfly:*
 https://github.com/Rlxfly
-*❉ Zenss:*
-https://github.com/RaaaGH
+*❉ Humanzz:*
+https://github.com/OrochimaruBotz
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ Zenss:*
-https://github.com/RaaaGH
+*❉ Humanzz:*
+https://github.com/OrochimaruBotz
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*
