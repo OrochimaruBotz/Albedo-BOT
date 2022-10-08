@@ -46,8 +46,8 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
       mediaUrl: "https://github.com/ImYanXiao",
       mediaType: 2,
-      description: "https://github.com/ImYanXiao", 
-      title: 'whmods-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+      description: "https://github.com/OrochimaruBotz", 
+      title: 'humanz-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
       body: wm,
       thumbnail: thumb,
       sourceUrl: sig  }}})
