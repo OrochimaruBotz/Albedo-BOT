@@ -63,7 +63,7 @@ conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { extern
     mediaUrl: "https://Instagram.com/inizenscuy",
     mediaType: "VIDEO",
     description: "https://Instagram.com/inizenscuy", 
-    title: 'Albedo-MultiDevice',
+    title: 'GojoBotzMD-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
