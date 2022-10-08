@@ -5,7 +5,7 @@ let pp = await conn.profilePictureUrl(who).catch(_ => hwaifu.getRandom())
 let name = await conn.getName(who)
 
 
-if (command == 'whmods1') {
+if (command == 'humnz1') {
  let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Saya Owner Gojo;Bot;;Md\nFN:Saya Owner Gojo Bot WhatsApp, Md\nNICKNAME:👑 Owner Gojo Bot\nORG:Humanz\nTITLE:Ofc\nitem1.TEL;waid=6288804947282:+62 888-0494-7282\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET:humnazofc72@gmail.com\nitem3.X-ABLabel:💌 Mail Owner Gojo BOT\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU YAH\nEND:VCARD`
 const tag_own = await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard }] }}, { quoted: fakes })
 let caption = `👋 Hai *@${who.split("@")[0]}*, Nih Owner *${conn.user.name}* kak`
