@@ -9,7 +9,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     mediaUrl: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow",
     mediaType: 2,
     description: "https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow", 
-    title: 'whmods-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+    title: 'humanz-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
